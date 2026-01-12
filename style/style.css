@@ -1,0 +1,31 @@
+
+*{margin: 0px; padding: opx; box-sizing: border-box;}
+
+header{background-color: rgba(255, 72, 14, 0.1);
+    width: 1120x;}
+
+nav{ display: flex; justify-content: space-between;
+align-items: center; width: 1000px; margin: 0px auto; padding-top: 15px;}
+
+nav ul{ display: flex; }
+ul li {list-style:none ; margin: -5px;} 
+ul li a{text-decoration: none; padding: 10px 20px; }
+ul li a:hover{ background-color: magenta; transition: 0.50s;
+ }
+
+  
+
+/* start banner section? */
+.banner{ width: 638px; height: 225px; margin: auto;
+align-items: center; text-align: center; margin-top: 35px;}
+
+.banner p{margin-top: 10px;}
+
+.btn-primary{ margin-top: 20px; background-color: #FF900E; 
+     width: 120px; height: 40px; border: none; border-radius: 8px;
+    color: white; font: 600px; font-size: 1rem;}
+
+    .btn-primary:hover{background-color: magenta;
+    transition: 0.75s;}
+    .banner-img img { width: 100%;
+    margin-top: -50px;}
