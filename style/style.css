@@ -27,5 +27,24 @@ align-items: center; text-align: center; margin-top: 35px;}
 
     .btn-primary:hover{background-color: magenta;
     transition: 0.75s;}
-    .banner-img img { width: 100%;
-    margin-top: -50px;}
+    .banner-img img { max-width: 1000px; margin:  auto; margin-top: -50px; display: flex;  }
+
+    /* start main section? */
+     .container-feature{max-width: 850px; display: flex; gap: 25px; margin: auto; margin-top: 30px ;}
+
+     .all-picture{display: grid; grid-template-columns: repeat(2, 1fr);}
+     .png{width: 200px;}
+
+     .feature-taitle{align-items: center; margin: auto;}
+
+     .feature-taitle{ width: 550px;}
+     .feature-taitle h4{font-size: 2rem; width: 240px;}
+
+     .feature{color: #FF900E;}
+     of-our{ font: bold}
+
+
+
+
+
+
