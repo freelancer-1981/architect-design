@@ -44,6 +44,37 @@ align-items: center; text-align: center; margin-top: 35px;}
      of-our{ font: bold}
 
 
+     /* main section one start? */
+    .section-one{display: flex; width: 850px; margin: auto; margin-top: 50px; gap: 40px;
+         padding-bottom: 30px;}
+
+    .loveenjoy-picture img{width: 100%;}
+
+    .section-1-taitle{margin-top: 20px;}
+
+    .section-1-taitle p{color:rgb(255, 47, 47); 
+        margin: 20px 0px;}
+
+     .love-enjoy .love-one h4{ font-size: 1.rem; margin-bottom: 6px;}
+     .love-enjoy .love-one p{font-size: 0.95rem;}
+
+    .love-one{ width: 80%; height: 90px; text-align: justify;}
+
+    .love-box {box-shadow: 0px 1px 1px 1px wheat; height: 80%; margin: 18px;}
+    
+    .love-box:hover{background-color: magenta; transition: 0.75s; cursor: auto;}
+
+    .btn-secondaty{ width: 130px; height: 70px; background-color: #FF900E; 
+        border: none; border-radius: 8px; color:
+         white; font: 800; font-size: .85rem;
+        margin-top: -100px; margin-left: -40px; } 
+  .btn-secondaty:hover{background: magenta; transition: 0.75s;}
+    
+    
+
+
+
+
 
 
 
